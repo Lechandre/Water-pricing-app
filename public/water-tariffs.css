@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: #2196f3;
+    /*margin: auto;*/
+    /*border: 2px solid white;*/
+    margin: 2em;
+    padding: 2em;
+    color: #00296b;
+    
+
+}
+
+.box {
+    font-style: italic;
+}
+
+table, th, td {
+    border: 1px solid white;  
+    border-collapse: collapse;
+    padding: 15px;
+}
+
